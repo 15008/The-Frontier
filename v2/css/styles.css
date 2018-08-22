@@ -1,0 +1,35 @@
+body {
+  margin: 0 0 0 0;
+  padding: 2em 2em 2em 2em;
+  font-family: verdana,arial,helvetica,san-serif;
+  font-size: 1.2vw;
+  background-color: #000000;
+}
+#menu {
+	list-style: none;
+}
+h1 {
+	font-size: 5vw;
+	color: #ffffff;
+	text-align: center;
+	font-family: 'bahiana', cursive;
+	margin: 0;
+    padding: 0;
+	font-weight: normal;
+}
+img {
+	width: 192px;
+	height: 108px;
+}
+.move {
+	position: absolute;
+	left: 400px;
+	top: 400px;
+}
+.scale {
+	width: 1920px;
+	height: 1080px;
+	position: absolute;
+	left: -100px;
+	display: overflow;
+}
